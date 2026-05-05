@@ -46,7 +46,7 @@ Send Email (SMTP)
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](Face_Attendence_Architecture.png)
 
 ## 🏗️ Project Structure
 
