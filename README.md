@@ -44,6 +44,10 @@ Send Email (SMTP)
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![Architecture](architecture.png)
+
 ## 🏗️ Project Structure
 
 ```
